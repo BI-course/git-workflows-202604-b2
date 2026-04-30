@@ -40,4 +40,10 @@ Refer to the files in the order specified below for more details:
 
 
 
+HEAD
+Project lead: Member 5 — responsible for governance and audit.
 
+Project lead: Member 4 — responsible for overall coordination.
+
+ origin/main
+Conflict test: Member 4 was here.
