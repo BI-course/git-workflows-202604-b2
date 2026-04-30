@@ -36,4 +36,10 @@ Refer to the files in the order specified below for more details:
 
 
 
-Project lead: Member 4 — responsible for overall coordination.
+
+
+
+Project lead: Member 4 (coordination) and Member 5 (governance and audit).
+
+
+
